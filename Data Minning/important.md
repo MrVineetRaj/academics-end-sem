@@ -47,11 +47,6 @@ _`Note : Revisit topics from MID sem`_
 1. **Definitions and Formulas**
 
    - **Support**: Measures how frequently an itemset appears in the dataset.  
-     To convert the LaTeX math formulas for a `.md` file (GitHub-compatible), you can rewrite them in plain text or use Markdown formatting without relying on LaTeX. Here’s how you can do it:
-
-   **Formulas**
-
-   - **Support**: Measures how frequently an itemset appears in the dataset.  
      **Formula:**
 
      - Support(A) = Frequency of transactions containing A / Total transactions
